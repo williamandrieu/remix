@@ -128,9 +128,10 @@ color: rgb(255, 255, 255);
  padding-left: 10px;
  padding-top: 1px;
  margin-top:50px;
- height:175px;
+ height:100%;
  background:rgb(190,190,190);
  margin:10px auto;
+ font-size: 20px;
 
 }
 
@@ -148,4 +149,15 @@ color: rgb(255, 255, 255);
   height:175px;
   background:rgb(190,190,190);
   margin:10px auto;
+}
+#button {
+
+
+
+
+
+  font-size: 20px;
+
+
+
 }
